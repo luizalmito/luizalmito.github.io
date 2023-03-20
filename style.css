@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(17, 17, 0);
+    color: white;
+}
+h1{
+    color: rgb(236, 200, 0);
+    margin-bottom: 0;
+}
+p{
+    display: block;
+    margin-bottom: 0;
+    font-size: 120%;
+    font-weight: bold
+}
+
+#navbar {
+    background-color: rgb(20, 20, 0);
+    color: rgb(236, 200, 0);;
+}
+.bg-dy, i{
+    color: rgb(236, 200, 0);
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(236, 200, 0);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(146, 110, 0);
+  }
