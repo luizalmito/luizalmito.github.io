@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 1366 768" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="351.423 40 661.577 687" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <style>.cls-1{fill:#366;}.cls-2{fill:url(#Gradiente_sem_nome_12);}.cls-3{fill:url(#Gradiente_sem_nome_13);}.cls-4{fill:#b2a283;}.cls-5{fill:#96886c;}.cls-6{fill:#d1be95;}.cls-7{fill:#e2cfaa;}.cls-8{fill:url(#Gradiente_sem_nome_6);}.cls-9{fill:url(#Gradiente_sem_nome_3);}.cls-10{fill:#8c806c;}.cls-11{fill:#010;}.cls-12{fill:#900;}.cls-13{fill:#d30f0f;}.cls-14{fill:#191919;}.cls-15{fill:#333;}.cls-16{fill:#0c0;}</style>
     <linearGradient id="Gradiente_sem_nome_12" x1="2338.08" y1="816.38" x2="128.71" y2="603.64" gradientUnits="userSpaceOnUse">
       <stop offset="0.51" stop-color="#d1be95"/>
       <stop offset="0.58" stop-color="#cdba92"/>
@@ -34,11 +33,8 @@
       <stop offset="1"/>
     </linearGradient>
     <linearGradient id="Gradiente_sem_nome_3" x1="601.2" y1="823.29" x2="629.51" y2="499.68" xlink:href="#Gradiente_sem_nome_12"/>
+    <style>.cls-1{fill:#366;}.cls-2{fill:url(#Gradiente_sem_nome_12);}.cls-3{fill:url(#Gradiente_sem_nome_13);}.cls-4{fill:#b2a283;}.cls-5{fill:#96886c;}.cls-6{fill:#d1be95;}.cls-7{fill:#e2cfaa;}.cls-8{fill:url(#Gradiente_sem_nome_6);}.cls-9{fill:url(#Gradiente_sem_nome_3);}.cls-10{fill:#8c806c;}.cls-11{fill:#010;}.cls-12{fill:#900;}.cls-13{fill:#d30f0f;}.cls-14{fill:#191919;}.cls-15{fill:#333;}.cls-16{fill:#0c0;}</style>
   </defs>
-  <title>espelunca</title>
-  <g id="Camada_1" data-name="Camada 1">
-    <rect class="cls-1" width="1366" height="768"/>
-  </g>
   <g id="base">
     <polygon class="cls-2" points="495 660 756 707 908 644 672 613 495 660"/>
     <ellipse class="cls-3" cx="708.5" cy="580.5" rx="98.5" ry="82.5"/>
