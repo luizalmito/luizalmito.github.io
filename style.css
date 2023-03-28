@@ -13,11 +13,12 @@ p{
     font-weight: bold
 }
 
-#navbar {
+#navi {
     background-color: rgb(20, 20, 0);
-    color: rgb(236, 200, 0);;
+    color: rgb(236, 200, 0);
 }
-.bg-dy, i{
+
+i{
     color: rgb(236, 200, 0);
 }
 
@@ -33,4 +34,36 @@ p{
   }
   ::-webkit-scrollbar-thumb:hover {
     background: rgb(146, 110, 0);
+  }
+
+  /* navbar */
+  .nav-link{
+      color: rgb(236, 200, 0); 
+  }
+  .nav-link:hover, .nav-link:focus{
+    color: rgb(146, 110, 0);
+  }
+  .navbar-toggler, .navbar-toggler:focus{
+    border: 0;
+    box-shadow: none;
+  }
+  .navbar-toggler-icon{
+   background-image: none;
+  }
+
+
+
+  #features p{
+    text-align: center;
+  }
+  #features i{
+    text-align: center;
+  }
+
+
+
+  #cat{
+    height: 300px;
+    transform: rotate(-20deg);
+    background-color: rgb(146, 110, 0);
   }
